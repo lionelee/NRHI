@@ -1,0 +1,14 @@
+.*
+!.gitignore
+!.gitattributes
+!.clang-format
+build/
+*~
+data/
+figures/
+results/
+*.swp
+*.res
+*.sum
+~*
+tags

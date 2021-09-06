@@ -1,0 +1,7 @@
+[submodule "YCSB"]
+	path = YCSB
+	url = https://github.com/brianfrankcooper/YCSB.git
+[submodule "libpmemobj-cpp"]
+	path = libpmemobj-cpp
+	url = https://github.com/pmem/libpmemobj-cpp.git
+	branch = stable-1.7
